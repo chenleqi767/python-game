@@ -10,3 +10,4 @@ actor
 sound
 music
 screen keyboard keys pgzrun
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
